@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rioba-Ian/react-fun-site.github.io/static/css/main.62b76121.css",
+    "main.js": "/Rioba-Ian/react-fun-site.github.io/static/js/main.cbf22624.js",
+    "static/js/787.332f2cd3.chunk.js": "/Rioba-Ian/react-fun-site.github.io/static/js/787.332f2cd3.chunk.js",
+    "index.html": "/Rioba-Ian/react-fun-site.github.io/index.html",
+    "main.62b76121.css.map": "/Rioba-Ian/react-fun-site.github.io/static/css/main.62b76121.css.map",
+    "main.cbf22624.js.map": "/Rioba-Ian/react-fun-site.github.io/static/js/main.cbf22624.js.map",
+    "787.332f2cd3.chunk.js.map": "/Rioba-Ian/react-fun-site.github.io/static/js/787.332f2cd3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62b76121.css",
+    "static/js/main.cbf22624.js"
+  ]
+}
